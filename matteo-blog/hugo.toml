@@ -1,11 +1,18 @@
-[params]
-  author = "Your Name"
-  description = "Your site description"
+theme = "loficode"
 
-  # Profile section
-  [params.profile]
+[params]
+  description = "A cozy corner of the internet for code, thoughts, and coffee"
+  tagline = "☕ Welcome to my cozy corner of the internet where I share thoughts about code, life, and everything in between. Grab a coffee and let's explore together!"
+
+  # Author section
+  [params.author]
     name = "Your Name"
-    tagline = "Your tagline here"
+    image = "/images/profile.png"
+
+  # Profile section  
+  [params.profile]
+    name = "Matteo"
+    tagline = "☕ Welcome to my cozy corner of the internet where I share thoughts about code, life, and everything in between. Grab a coffee and let's explore together!"
     photo = "/images/profile.png"
 
   # Social links - Supported platforms: github, twitter, linkedin, email, mastodon, youtube, instagram, facebook
