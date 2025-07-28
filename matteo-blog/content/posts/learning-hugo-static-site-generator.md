@@ -16,12 +16,13 @@ Hugo is a static site generator written in Go that's blazingly fast. It takes yo
 
 ### Key Things I Discovered:
 
-**⚡ Speed**: Hugo builds sites incredibly fast - we're talking milliseconds for most sites. Perfect for that instant feedback loop when developing.
+**⚡ Speed**: Hugosss builds sites incredibly fast - we're talking milliseconds for most sites. Perfect for that instant feedback loop when developing.
 
-**📁 Simple Structure**: 
+**📁 Simple Structure**:
+
 ```
 content/     # Your markdown files
-themes/      # Themes directory  
+themes/      # Themes directory
 hugo.toml    # Configuration file
 public/      # Generated static site
 ```
@@ -62,4 +63,4 @@ I want to dive deeper into Hugo's templating system and maybe customize some asp
 
 ---
 
-*Coffee count for this learning session: ☕☕ (definitely needed the caffeine boost for all that configuration!)*
+_Coffee count for this learning session: ☕☕ (definitely needed the caffeine boost for all that configuration!)_
